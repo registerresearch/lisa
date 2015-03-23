@@ -8,6 +8,7 @@ About the register
 
 The longitudinal database LISA contains all persons 16 years or older (as from 2010 15 or older),  registered as residents
 of Sweden on December 31 each year.
+
 Data sources:
 
 Register on the total population (RTB),
