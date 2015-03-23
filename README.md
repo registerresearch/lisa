@@ -22,7 +22,7 @@ STORE (The database of the National Insurance Agency),
 Corporate economical data,
 Economical data from local communities, cities, and county councils.
 
-English language information from SCB:
+English language information from Statistics Sweden:
 
 Longitudinal integration database for health insurance and labour market studies (LISA by Swedish acronym)
 
