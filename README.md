@@ -48,32 +48,51 @@ Incomes or compensations from employment, entrepreneurial activities, studies, n
 parental leave, unemployment, labour market activity, rehabilitation, partial retirement, early retirement, retirement, 
 occupational pension, annuities, social assistance, private pensions, etc. 
 
-Disposable income 
+Disposable income
+
 Country of birth and parental countries of birth 
+
 Latest year of immigration 
+
 Place of residence (county, municipality, parish and property) 
+
 Place of employment (county and municipality) 
+
 Highest level of education
 
 The company section of the database contains annual information on the following.
 
 Location 
+
 Type of industry
+
 Sector
+
 Number of employees distributed by sex and level of education
+
 Number of employees during the year
+
 Salaries paid during the year
+
 Economic key ratios (since 1997 annual register)
+
 Basic economic data (since 1997 annual register)
+
 
 The place of employment section in the database contains annual register information on the following.
 
 Location
+
 Type of industry
+
 Sector
+
 Number of employees distributed by sex and level of education
+
 Number of employees during the year
+
 Salaries paid during the year
+
 
 The database gives a basis for longitudinal statistics and research about entire populations or groups therein or geographic 
 areas, and about relations gainful employment and alternative employments (studies, parental leave, unemployment, 
@@ -85,6 +104,4 @@ ethical screening is conducted in order to gain access to data for research purp
 See http://www.forskningsetikprovning.se/. A secrecy clearance by Statistics Sweden is conducted for every release of object 
 data.
 
-The LISA database is housed in an SQL database. The information can be linked, when needed, to separate data files and updated
-with information from other registers at Statistics Sweden. Data files can be delivered in SPSS, SAS, ACCESS, EXCEL or ASCII 
-format according to customer specifications.
+The LISA database is housed in an SQL database. The information can be linked, when needed, to separate data files and updated with information from other registers at Statistics Sweden. Data files can be delivered in SPSS, SAS, ACCESS, EXCEL or ASCII format according to customer specifications.
