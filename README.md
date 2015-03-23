@@ -7,18 +7,18 @@ About the register
 
 The longitudinal database LISA contains all persons 16 years or older (as from 2010 15 or older),  registered as residents
 of Sweden on December 31 each year.
-Data sources
-Register on the total population (RTB)
-Census 1990
-Register based labor market statistics (RAMS)
-The highest level of education register
-The register on persons in education
-Income‑ and Taxation register (IoT)
-The Data Storage (Applicants in the register of the Employment Offices)
-STORE (The database of the National Insurance Agency)
-Corporate economical data
-Economical data from local communities and cities
-Ekonomical data from county councils
+Data sources:
+
+Register on the total population (RTB),
+Census 1990,
+Register based labor market statistics (RAMS),
+The highest level of education register,
+The register on persons in education,
+Income‑ and Taxation register (IoT),
+The Data Storage (Applicants in the register of the Employment Offices),
+STORE (The database of the National Insurance Agency),
+Corporate economical data,
+Economical data from local communities, cities, and county councils.
 
 English language information from SCB:
 
