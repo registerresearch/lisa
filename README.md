@@ -107,3 +107,8 @@ See http://www.forskningsetikprovning.se/. A secrecy clearance by Statistics Swe
 data.
 
 The LISA database is housed in an SQL database. The information can be linked, when needed, to separate data files and updated with information from other registers at Statistics Sweden. Data files can be delivered in SPSS, SAS, ACCESS, EXCEL or ASCII format according to customer specifications.
+
+#About Github
+Introduction to Github https://www.youtube.com/watch?v=FyfwLX4HAxM
+
+Learn how to use Github https://guides.github.com/activities/hello-world/
